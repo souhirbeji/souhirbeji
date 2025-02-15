@@ -48,27 +48,6 @@
   </a>
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/souhirbeji/souhirbeji/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/bu8yb7av1t7t37cuh6n1e73aq">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=bu8yb7av1t7t37cuh6n1e73aq&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/souhirbeji/count.svg?"  />
