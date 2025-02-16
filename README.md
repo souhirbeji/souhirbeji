@@ -37,6 +37,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="Azure logo"  />
 </div>
 
+
+
+### 🔥 Fun Facts  
+- 🎮 Passionnée de **webtoons et Manhwa** | 🎨 **Peinture & Art numérique** | 📚 **Lecture addictive**  
+- ☕ **Caféine = carburant** | Code de minuit = meilleure inspiration 🌙  
+- 🤖 Toujours en quête de **nouveaux défis IA & Data Science** | J'adore expérimenter avec les algos 🔍  
+- 🎵 **Tous les styles de musique sont les bienvenus !** 🎧 Balance tes recommandations, je suis toujours curieuse ! 🚀  
+
 ---
 
 ### 📫 Connect with Me
