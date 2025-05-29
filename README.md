@@ -60,10 +60,4 @@
   </a>
 </div>
 
----
 
-### 📊 Profile Views Counter
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/souhirbeji/count.svg?" />
-</div>
