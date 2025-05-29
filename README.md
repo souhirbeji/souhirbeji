@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋! My name is Souhir and I'm a Dev enthusiast with so much love for Data and ML/AI</h1>
+<h1 align="center">Hi 👋! My name is Souhir and I'm a AI enthusiast with so much love for Data and ML/AI</h1>
 
 ---
 
