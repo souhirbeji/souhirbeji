@@ -39,12 +39,14 @@
 
 
 
-### 🔥 Fun Facts  
-- 🎮 Passionnée de **webtoons et Manhwa** | 🎨 **Peinture & Art numérique** | 📚 **Lecture addictive**  
-- ☕ **Caféine = carburant** | Code de minuit = meilleure inspiration 🌙  
-- 🤖 Toujours en quête de **nouveaux défis IA & Data Science** | J'adore expérimenter avec les algos 🔍  
-- 🎵 **Tous les styles de musique sont les bienvenus !** 🎧 Balance tes recommandations, je suis toujours curieuse ! 🚀  
-
+ 
+###🌙✨ Matcha-Fueled Coder, Moon Prism Edition ✨🌙
+- 🦄 Part Sailor Scout, part ***AI enthusiast: Summoning algorithms when the night is darkest***
+- 🍵 Matcha over coffee, always: My source code runs smoother with a little green magic.
+- 👾 Debugging is my transformation sequence.
+- 🌸 Fandom breaks include webtoons, manhwa, and stardust music ***expect the unexpected on my playlists***.
+- 🧠 Coding philosophy: Build boldly, question deeply, remix fearlessly.
+***May the lunar power chase all bugs away!***
 ---
 
 ### 📫 Connect with Me
